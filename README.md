@@ -176,7 +176,7 @@ Als je ontwerpt, pas op voor aannames. Maak gebruik van de expert en ontwerp het
 ### Iteratie
 
 <details>
-    <summary>Bekijk de iteraties</summary>
+    <summary>Bekijk de iteratie slagen</summary>
 In het interview van vorige week kwam ik interessante dingen te weten over Marie die ik wil toepassen op mijn design.
 
 
@@ -207,8 +207,7 @@ Met deze punten in mijn hoofd heb ik het volgende ontwerp gemaakt.
 ### Feedback 
 
 <details>
-    
-    <summary>Bekijk de feedback</summary>
+<summary>Bekijk de feedbackpunten</summary>
     
 * Bij zin onderbrekingen denkt Marie dat er een soort van ‘pauze’ tussen zit. Ze heeft niet het idee dat de spreker dan aan één keer door aan het praten is. De tekst mag dus best wat langer.
 * Hoe laat je 1 lang wolkje zien? En hoe een pauze?
