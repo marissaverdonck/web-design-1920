@@ -120,8 +120,7 @@ Mijn eerste idee is de mensen te tonen uit het gesprek. Hun gezicht kan verander
 
 ### Feedback 
 
-<details>
-    <summary>Bekijk de feedback</summary>
+
 
 
 * Maak onderscheid tussen een transcript en een artikel. Maak het wel een podcast.
@@ -129,7 +128,7 @@ Mijn eerste idee is de mensen te tonen uit het gesprek. Hun gezicht kan verander
 * Hoe hoor je in een podcast/dialoog of het spanned is?
 * Als iemand iets verteld in een podcast en verschillende emoties heeft, hoe ga je dat aanpakken als je het terug wil lezen? Bij welke zin hoort welke emotie?
 
-</details>
+
 
 ### De testsessie
 <details>
@@ -141,7 +140,7 @@ Marie had 2 tolken. De een is haar stem en de ander zijn haar oren. Marie wil gr
 
 ### Presentatie Marie
 <details>
-    <summary>Bekijk de samenvatting</summary>
+    <summary>Bekijk de presentatie samenvatting</summary>
 
 Marie neemt elke dag de trein. Op het moment dat ze haar abonnement wou wijzigen, belt ze met de NS. Dat doet ze met de app "talk contact". Normaal geen probleem maar de NS wou dat Marie akkoord gaf voor de wijziging. Via de tolk antwoord ze "ja, ik geef akkoord". Dat is niet voldoende voor de NS, Marie moet zelf "ja" zeggen uit haar eigen mond. Dat is natuurlijk een rare situatie. Alsof gebarentaal geen volwaardige taal zou zijn.
 
@@ -175,8 +174,7 @@ Als je ontwerpt, pas op voor aannames. Maak gebruik van de expert en ontwerp het
 
 ### Iteratie
 
-<details>
-    <summary>Bekijk de iteratie slagen</summary>
+
 In het interview van vorige week kwam ik interessante dingen te weten over Marie die ik wil toepassen op mijn design.
 
 
@@ -195,7 +193,7 @@ In het interview van vorige week kwam ik interessante dingen te weten over Marie
 
 <img width="300" alt="Schermafbeelding 2020-04-09 om 18 31 34" src="https://user-images.githubusercontent.com/43657951/78918457-bfcd3f00-7a90-11ea-8cf6-8511d3e45e2c.png">
 
-</details>
+
 
 ### Ontwerp 2
 
@@ -206,8 +204,7 @@ Met deze punten in mijn hoofd heb ik het volgende ontwerp gemaakt.
 
 ### Feedback 
 
-<details>
-<summary>Bekijk de feedbackpunten</summary>
+
     
 * Bij zin onderbrekingen denkt Marie dat er een soort van ‘pauze’ tussen zit. Ze heeft niet het idee dat de spreker dan aan één keer door aan het praten is. De tekst mag dus best wat langer.
 * Hoe laat je 1 lang wolkje zien? En hoe een pauze?
@@ -215,7 +212,7 @@ Met deze punten in mijn hoofd heb ik het volgende ontwerp gemaakt.
 * Pauze/Play button of scrollen? Als je scrollt, raak je dan het gevoel van een ‘gesprek’ kwijt. Of is het dan gewoon lezen, zoals bij een ‘artikel’. En wat je wil is afhankelijke van de situatie (zit je op mobiel lekker op de bank, of zit je achter je bureau op je laptop).
 * De gezichten en tekst zal je mee moeten oppassen als het te ver uit elkaar staat. Dan is het te veel zoeken.
 
-</details>
+
 
 
 
