@@ -110,7 +110,7 @@ Auto gegenereerd is vervelend, dan doe ik het liever zonder! Het maakt in mijn e
 
 </details>
 
-### Feedback op concept 1
+### Feedback 1
 
 
 <details>
@@ -196,7 +196,7 @@ Met deze punten in mijn hoofd heb ik het volgende ontwerp gemaakt.
 <img width="500" alt="Schermafbeelding 2020-04-09 om 18 31 34" src="https://user-images.githubusercontent.com/43657951/78920147-3e2ae080-7a93-11ea-942b-6ffe20358a0a.png">
 
 
-## Feedback
+## Feedback 2
 
 * Bij zin onderbrekingen denkt Marie dat er een soort van ‘pauze’ tussen zit. Ze heeft niet het idee dat de spreker dan aan één keer door aan het praten is. De tekst mag dus best wat langer.
 * Hoe laat je 1 lang wolkje zien? En hoe een pauze?
