@@ -110,16 +110,19 @@ Auto gegenereerd is vervelend, dan doe ik het liever zonder! Het maakt in mijn e
 
 </details>
 
-### Feedback 
-
-
-<details>
-    <summary>Bekijk de feedback</summary>
+### Concept
 
 Ik wil Marie helpen podcasts te kunnen volgen. 
 Mijn eerste idee is de mensen te tonen uit het gesprek. Hun gezicht kan veranderen wanneer hun emotie veranderd. Als iemand wat verteld komt dat in een tekstwolkje te staan wat later weer verdwijnt. Ik wil hierbij ook spelen met kleur en lettertypes.
 
 <img width="500" alt="Schermafbeelding 2020-04-09 om 08 24 11" src="https://user-images.githubusercontent.com/43657951/78864230-83232880-7a3b-11ea-85c5-8c8aeab52dae.png">
+
+
+### Feedback 
+
+<details>
+    <summary>Bekijk de feedback</summary>
+
 
 * Maak onderscheid tussen een transcript en een artikel. Maak het wel een podcast.
 * Let op bij kleuren dat ze subjectief zijn.
