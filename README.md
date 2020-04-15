@@ -173,6 +173,7 @@ Als je ontwerpt, pas op voor aannames. Maak gebruik van de expert en ontwerp het
 ### Iteratie
 In het interview van vorige week kwam ik interessante dingen te weten over Marie die ik wil toepassen op mijn design.
 
+
 * Interesse. Als Marie een podcast zou willen lezen, zou ze er een uitkiezen aan de hand van haar interesses, UX bijvoorbeeld. Ik kwam erachter dat Vasilis mooie podcasts maakt, dus het leek me een goed idee er hier een van te gebruiken.
 [Astrid Poot in gesprek met Vasilis van Gemert - The Good, The Bad, and The Interesting](https://vasilis.nl/gbi/2017/11/21/astrid-poot-2/).
 
@@ -195,7 +196,13 @@ Met deze punten in mijn hoofd heb ik het volgende ontwerp gemaakt.
 <img width="500" alt="Schermafbeelding 2020-04-09 om 18 31 34" src="https://user-images.githubusercontent.com/43657951/78920147-3e2ae080-7a93-11ea-942b-6ffe20358a0a.png">
 
 
+## Feedback
 
+* Bij zin onderbrekingen denkt Marie dat er een soort van ‘pauze’ tussen zit. Ze heeft niet het idee dat de spreker dan aan één keer door aan het praten is. De tekst mag dus best wat langer.
+* Hoe laat je 1 lang wolkje zien? En hoe een pauze?
+* Het lettertype vindt ze goed leesbaar!
+* Pauze/Play button of scrollen? Als je scrollt, raak je dan het gevoel van een ‘gesprek’ kwijt. Of is het dan gewoon lezen, zoals bij een ‘artikel’. En wat je wil is afhankelijke van de situatie (zit je op mobiel lekker op de bank, of zit je achter je bureau op je laptop).
+* De gezichten en tekst zal je mee moeten oppassen als het te ver uit elkaar staat. Dan is het te veel zoeken.
 
 
 
