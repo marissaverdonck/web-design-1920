@@ -193,7 +193,7 @@ In het interview van vorige week kwam ik interessante dingen te weten over Marie
 
 Met deze punten in mijn hoofd heb ik het volgende ontwerp gemaakt.
 
-<img width="500" alt="Schermafbeelding 2020-04-09 om 18 31 34" src="https://user-images.githubusercontent.com/43657951/78920147-3e2ae080-7a93-11ea-942b-6ffe20358a0a.png">
+<img width="500" alt="Schermafbeelding 2020-04-15 om 14 03 56" src="https://user-images.githubusercontent.com/43657951/79335341-2388b980-7f22-11ea-8f13-c68888e427a8.png">
 
 
 ## Feedback 2
