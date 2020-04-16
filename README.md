@@ -211,6 +211,7 @@ Met deze punten in mijn hoofd heb ik het volgende ontwerp gemaakt.
 * Het lettertype vindt ze goed leesbaar!
 * Pauze/Play button of scrollen? Als je scrollt, raak je dan het gevoel van een ‘gesprek’ kwijt. Of is het dan gewoon lezen, zoals bij een ‘artikel’. En wat je wil is afhankelijke van de situatie (zit je op mobiel lekker op de bank, of zit je achter je bureau op je laptop).
 * De gezichten en tekst zal je mee moeten oppassen als het te ver uit elkaar staat. Dan is het te veel zoeken.
+* Vasilis heeft een baard.
 
 
 
