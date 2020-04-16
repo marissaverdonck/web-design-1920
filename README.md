@@ -224,4 +224,19 @@ Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het i
 
 </details>
 
+### Gastcollege Johan Huijkman en Roger Ravelli 
+
+<details>
+    <summary>Lees het verslag</summary>
+</details>
+
+## week 3
+
+### Iteratie
+
+* Een van de dingen die Marie direct opviel, is dat Vasilis geen baard heeft op de illustratie! Dat heb ik natuurlijk aangepast. En ook Atrid heeft een knot en een bril gekregen.
+
+<img width="500" alt="Schermafbeelding 2020-04-15 om 14 03 56" src="https://user-images.githubusercontent.com/43657951/79475411-eb5ba680-8007-11ea-8169-b270b8eae56e.png">
+
+
 
