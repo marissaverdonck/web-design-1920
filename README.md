@@ -218,7 +218,7 @@ Met deze punten in mijn hoofd heb ik het volgende ontwerp gemaakt.
 <details>
     <summary>Hoe ging testsessie</summary>
 
-Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het is helaas niet mogelijk om een usertest uit te voeren omdat we niet met Marie mee kunnen kijken op haar scherm wat ze doet. Het zou ook te ingewikkend worden als ze én naar de tolken moet kijken én naar het concept tegelijkertijd. Daarom leggen we eerst ons concept compleet uit om vervolgens het concept aan haar te laten zien via screenshare of via een link. Marie kan op deze manier eerst naar de tolken kijken en daarna  naar het concept. Ik vroeg naar haar 1e gedachte en zorgde dat ik al een aantal vragen voorbereid had.
+Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het is helaas niet mogelijk om een usertest uit te voeren omdat we niet met Marie mee kunnen kijken op haar scherm wat ze doet. Het zou ook te ingewikkeld worden als ze én naar de tolken moet kijken én naar het concept tegelijkertijd. Daarom leggen we eerst ons concept compleet uit om vervolgens het concept aan haar te laten zien via screenshare of via een link. Marie kan op deze manier eerst naar de tolken kijken en daarna  naar het concept. We hebben het geluk dat Marie designer is, ze kan goed uitleggen wat ze van het ontwerp vindt en wat ze zou aanpassen. Ik vroeg naar haar 1e gedachte en zorgde dat ik al een aantal vragen voorbereid had.
 
 </details>
 
