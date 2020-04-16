@@ -1,30 +1,65 @@
 # Web Design @cmda-minor-web 1920
 
-# Exclusive Design
+## Table of Contents
+* [Exclusive Design](#Exclusive-Design)
+* [Live Demo](#Live-Demo)
+* [Installation](#Installation)
+* [Marie van Driessche](#Marie-van-Driessche)
+* [Concept](#Concept)
+* [Week 1](#Week-1)
+  * [Wie is Marie](#Wie-is-Marie)
+  * [Interview](#Interview)
+  * [Ontwerp 1](#Ontwerp-1)
+  * [Feedback](#Feedback)
+  * [De testsessie](#De-testsessie)
+  * [Presentatie Marie](#Presentatie-Marie)
+* [Week 2](#Week-2)
+
+  
+  
+* [Wishlist](#Wishlist)
+* [Learning goals](#Learning-goals)
+* [Credits](#Credits)
+* [License](#License)
+
+## Exclusive Design
 Dit is een ontwerp-opdracht voor 1 persoon. Een exclusive design. Wie is deze persoon dan voor wie je dit gaat maken? Wat vindt deze persoon leuk of juist niet? En hoe bedient deze persoon een computer? Volg de design principes van [exclusive design](https://exclusive-design.vasilis.nl/):
 
 * Study situation: Bestudeer de individuele situatie.
 * Ignore conventions: standaarden op het web zijn niet altijd handig in gebruik voor de individu.
-
-
 * Prioritise identity: Door de individu mee te laten denken over het design, krijg je nieuwe inzichten.
-
-
 * Add nonsense: Maak het leuk
 
-# Marie van Driessche
+
+## Live Demo
+https://marissaverdonck.github.io/web-design-1920/
+
+
+## Installation
+1. Open up your terminal
+
+2. Go to the file in your computer where you want to install the application
+
+3. Clone the repository. Typ in your terminal:
+```
+Git clone https://github.com/marissaverdonck/web-design-1920.git
+```
+
+
+
+## Marie van Driessche
 Marie is Interaction Designer uit Amsterdam en spreker over UX en toegankelijkheid. Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt. 
 
 
 ![0](https://user-images.githubusercontent.com/43657951/78820390-fe52f300-79d7-11ea-8617-ec1f18fcbf93.jpeg)
 
-## Podcast
+## Concept
 
 Ik wil Marie helpen met het volgen van een podcast. Iets wat voor dove mensen tot nu toe onbereikbaar is. Wanneer er een transcriptie beschikbaar is, gaat nogal wat nuance verloren. Ik wil een oplossing maken die minimaal net zo prettig is voor iemand die niet kan luisteren als voor iemand die wel kan luisteren. Ik ga dit ontwerpen voor 1 persoon. Niet een doelgroep, maar alleen voor Marie. Dit heet exclusive design. Ik zal me verdiepen in de gebruiker en het prototype meerdere keren testen. Op deze manier kan ik het ontwerp verbeteren.
 
 
 
-## Week 1 - Kennismaking
+## Week 1
 
 ### Wie is Marie?
 
@@ -237,6 +272,20 @@ Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het i
 * Een van de dingen die Marie direct opviel, is dat Vasilis geen baard heeft op de illustratie! Dat heb ik natuurlijk aangepast. En ook Atrid heeft een knot en een bril gekregen. De gezichtsuitdrukkingen zullen nog in deze illustraties  worden getekend en veranderen per zin.
 
 <img width="450" alt="Schermafbeelding 2020-04-15 om 14 03 56" src="https://user-images.githubusercontent.com/43657951/79475411-eb5ba680-8007-11ea-8169-b270b8eae56e.png">
+
+
+
+## Learning goals
+
+
+## Credits
+
+
+## Sources
+
+
+## License
+[MIT License](https://github.com/marissaverdonck/web-design-1920/blob/master/license)
 
 
 
