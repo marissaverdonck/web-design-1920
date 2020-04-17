@@ -1,11 +1,13 @@
 # Web Design @cmda-minor-web 1920
 
+## Live Demo
+https://marissaverdonck.github.io/web-design-1920/
+
 ## Table of Contents
 * [Exclusive Design](#Exclusive-Design)
-* [Live Demo](#Live-Demo)
 * [Marie van Driessche](#Marie-van-Driessche)
 * [Concept](#Concept)
-* [Installation](#Installatie)
+* [Installatie](#Installatie)
 * [Week 1](#Week-1)
   * [Wie is Marie](#Wie-is-Marie)
   * [Interview](#Interview)
@@ -33,10 +35,6 @@ Dit is een ontwerp-opdracht voor 1 persoon. Een exclusive design. Wie is deze pe
 * Prioritise identity: Door de individu mee te laten denken over het design, krijg je nieuwe inzichten.
 * Add nonsense: Maak het leuk
 
-
-## Live Demo
-https://marissaverdonck.github.io/web-design-1920/
-
 ## Marie van Driessche
 Marie is Interaction Designer uit Amsterdam en spreker over UX en toegankelijkheid. Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt. 
 
@@ -46,8 +44,6 @@ Marie is Interaction Designer uit Amsterdam en spreker over UX en toegankelijkhe
 ## Concept
 
 Ik wil Marie helpen met het volgen van een podcast. Iets wat voor dove mensen tot nu toe onbereikbaar is. Wanneer er een transcriptie beschikbaar is, gaat nogal wat nuance verloren. Ik wil een oplossing maken die minimaal net zo prettig is voor iemand die niet kan luisteren als voor iemand die wel kan luisteren. Ik ga dit ontwerpen voor 1 persoon. Niet een doelgroep, maar alleen voor Marie. Dit heet exclusive design. Ik zal me verdiepen in de gebruiker en het prototype meerdere keren testen. Op deze manier kan ik het ontwerp verbeteren.
-
-
 
 ## Installatie
 1. Open de terminal
@@ -59,10 +55,7 @@ Ik wil Marie helpen met het volgen van een podcast. Iets wat voor dove mensen to
 Git clone https://github.com/marissaverdonck/web-design-1920.git
 ```
 
-
-
-
-
+# Onderzoek 
 
 ## Week 1
 
@@ -278,14 +271,9 @@ Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het i
 
 <img width="450" alt="Schermafbeelding 2020-04-15 om 14 03 56" src="https://user-images.githubusercontent.com/43657951/79475411-eb5ba680-8007-11ea-8169-b270b8eae56e.png">
 
-
-
 ## Learning goals
 
-
 ## Credits
-
-
 
 ## License
 [MIT License](https://github.com/marissaverdonck/web-design-1920/blob/master/license)
