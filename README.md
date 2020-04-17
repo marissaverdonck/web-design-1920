@@ -14,10 +14,13 @@
   * [De testsessie](#De-testsessie)
   * [Presentatie Marie](#Presentatie-Marie)
 * [Week 2](#Week-2)
-
-  
-  
-* [Wishlist](#Wishlist)
+  * [Iteratie](#Iteratie)
+  * [Ontwerp 2](#Ontwerp-2)
+  * [Feedback](#Feedback)
+  * [De testsessie](#De-testsessie)
+  * [Gastcollege Johan Huijkman en Roger Ravelli](#Gastcollege-Johan-Huijkman-en-Roger-Ravelli)
+* [week 3](#week-3)
+  * [Iteratie](#Iteratie)
 * [Learning goals](#Learning-goals)
 * [Credits](#Credits)
 * [License](#License)
@@ -280,8 +283,6 @@ Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het i
 
 ## Credits
 
-
-## Sources
 
 
 ## License
