@@ -5,7 +5,7 @@
 * [Live Demo](#Live-Demo)
 * [Marie van Driessche](#Marie-van-Driessche)
 * [Concept](#Concept)
-* [Installation](#Installation)
+* [Installation](#Installatie)
 * [Week 1](#Week-1)
   * [Wie is Marie](#Wie-is-Marie)
   * [Interview](#Interview)
@@ -49,12 +49,12 @@ Ik wil Marie helpen met het volgen van een podcast. Iets wat voor dove mensen to
 
 
 
-## Installation
-1. Open up your terminal
+## Installatie
+1. Open de terminal
 
-2. Go to the file in your computer where you want to install the application
+2. Ga naar de map waar je de application wil installeren.
 
-3. Clone the repository. Typ in your terminal:
+3. Clone de repository door in de terminal te typen:
 ```
 Git clone https://github.com/marissaverdonck/web-design-1920.git
 ```
