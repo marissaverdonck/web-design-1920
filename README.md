@@ -23,8 +23,10 @@ https://marissaverdonck.github.io/web-design-1920/
   * [Gastcollege Johan Huijkman en Roger Ravelli](#Gastcollege-Johan-Huijkman-en-Roger-Ravelli)
 * [week 3](#week-3)
   * [Iteratie](#Iteratie)
-  
-  
+  * [Ontwerp 3](#Ontwerp-3)
+  * [Feedback](#Feedback)
+  * [De testsessie](#De-testsessie)
+* [week 4](#week-4)
 * [Learning goals](#Learning-goals)
 * [Credits](#Credits)
 * [License](#License)
@@ -239,8 +241,6 @@ Met deze punten in mijn hoofd heb ik het volgende ontwerp gemaakt.
 
 ### Feedback 
 
-
-    
 * Bij zin onderbrekingen denkt Marie dat er een soort van ‘pauze’ tussen zit. Ze heeft niet het idee dat de spreker dan aan één keer door aan het praten is. De tekst mag dus best wat langer.
 * Hoe laat je 1 lang wolkje zien? En hoe een pauze?
 * Het lettertype vindt ze goed leesbaar!
@@ -291,8 +291,20 @@ Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het i
 
 ### Feedback
 
+* De emoties op de gezichten vallen niet op. dit kan ook komen doordat het via screenshare (dus kleiner) in beeld staat. 
+* De tekst gaat iets te snel
+* Handig dat je kan kiezen tussen tekst omstebeurt laden of alles in 1x laden en zelf scrollen door te tekst.
+* Onderstreepte tekst waar de nadruk op ligt is fijn.
+
 ### De testsessie
+<details>
+    <summary>Hoe ging testsessie</summary>
 We waren goed ingespeeld door de vorige testsessie. De tolken waren niet in beeld zodat we daar niet door werden afgeleid en echt het gevoel hadden dat we met Marie een gesprek voerde. Je praat wel in een soort fases. Je moet even wachten tot jouw verhaal vertaald is aan Marie en tot je haar verhaal terug krijgt van de tolk. Daar raak je wel snel aan gewend. We vertelden eerst wat ons concept ookalweer inhield, wat we verbeterd hadden en daarna de app zelf. Dit deden we via screenshare zodat ook de rest van de groep mee kon kijken. Af en toe kwam dit beeld niet helder of in goede snelheid bij Marie aan. Marie gaf veel en goede feedback. Soms zei ze dat het ook kon liggen aan de slechte verbinding en dat het op haar eigen device waarschijnlijk wel helderder zou zijn. De testsessie duurde alleen wat te lang wat ervoor zorgde dat we 20 minuten uitliepen. Ik was als laatst aan de beurt en voelde me daardoor een beetje gehaast. Gelukikkig heb ik nog wel wat goede feedback kunnen ontvangen.
+</details>
+
+## week 4
+
+### Iteratie
 
 ## Learning goals
 
