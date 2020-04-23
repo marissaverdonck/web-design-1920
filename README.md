@@ -267,9 +267,32 @@ Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het i
 
 ### Iteratie
 
-* Een van de dingen die Marie direct opviel, is dat Vasilis geen baard heeft op de illustratie! Dat heb ik natuurlijk aangepast. En ook Atrid heeft een knot en een bril gekregen. De gezichtsuitdrukkingen zullen nog in deze illustraties  worden getekend en veranderen per zin.
+* Een van de dingen die Marie direct opviel, is dat Vasilis geen baard heeft op de illustratie! Dat heb ik natuurlijk aangepast. En ook Astrid heeft een knot en een bril gekregen. De gezichtsuitdrukkingen zullen nog in deze illustraties  worden getekend en veranderen per zin.
 
-<img width="450" alt="Schermafbeelding 2020-04-15 om 14 03 56" src="https://user-images.githubusercontent.com/43657951/79475411-eb5ba680-8007-11ea-8169-b270b8eae56e.png">
+<img width="400" alt="Schermafbeelding 2020-04-15 om 14 03 56" src="https://user-images.githubusercontent.com/43657951/79475411-eb5ba680-8007-11ea-8169-b270b8eae56e.png">
+
+* Ik heb de kleuren aangepast. Marie gebruikt op haar eigen website, en in haar projecten blauw/groene kleuren. Omdat deze app speciaal voor Marie is, heb ik dat veranderd. Dit is de intro van de podcast:
+
+
+* Meer tekst per wolkje. Als er 1 zin per wolkje staat, dacht Marie dat er een stilte valt.
+
+* Emoties zijn nu toegevoegd in de illustraties.
+
+* Een illustratie per tekstwolk ipv de illustraties onderaan. Zo staat de informatie van tekst en emoties bij elkaar en hoeft Marie niet de hele tijd heen en weer te kijken. 
+
+* Play/Pauze button. En vooruit/achteruit speelknop. Met de vooruit speelknop wordt het hele verhaal geladen. Marie heeft zo de keuze om zelf door het verhaal heen te scrollen ipv te wachten tot het stuk voor stuk geladen wordt.
+
+### Ontwerp 3
+
+<img width="500" alt="Schermafbeelding 2020-04-23 om 09 06 56" src="https://user-images.githubusercontent.com/43657951/80069573-da4bf180-8541-11ea-8d92-89b3f98dd3f7.png">
+
+<img width="500" alt="Schermafbeelding 2020-04-23 om 09 09 02" src="https://user-images.githubusercontent.com/43657951/80069740-29922200-8542-11ea-8527-19f4170cc0d7.png">
+
+### Feedback
+
+### De testsessie
+
+
 
 ## Learning goals
 
