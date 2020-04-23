@@ -269,7 +269,7 @@ Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het i
 
 * Een van de dingen die Marie direct opviel, is dat Vasilis geen baard heeft op de illustratie! Dat heb ik natuurlijk aangepast. En ook Astrid heeft een knot en een bril gekregen. De gezichtsuitdrukkingen zullen nog in deze illustraties  worden getekend en veranderen per zin.
 
-<img width="400" alt="Schermafbeelding 2020-04-15 om 14 03 56" src="https://user-images.githubusercontent.com/43657951/79475411-eb5ba680-8007-11ea-8169-b270b8eae56e.png">
+<img width="300" alt="Schermafbeelding 2020-04-15 om 14 03 56" src="https://user-images.githubusercontent.com/43657951/80070776-d1f4b600-8543-11ea-97a0-1870ec29be07.png">
 
 * Ik heb de kleuren aangepast. Marie gebruikt op haar eigen website, en in haar projecten blauw/groene kleuren. Omdat deze app speciaal voor Marie is, heb ik dat veranderd. Ook heb ik de font gebruikt die Marie op haar eigen website gebruikt.
 
