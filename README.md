@@ -23,6 +23,8 @@ https://marissaverdonck.github.io/web-design-1920/
   * [Gastcollege Johan Huijkman en Roger Ravelli](#Gastcollege-Johan-Huijkman-en-Roger-Ravelli)
 * [week 3](#week-3)
   * [Iteratie](#Iteratie)
+  
+  
 * [Learning goals](#Learning-goals)
 * [Credits](#Credits)
 * [License](#License)
@@ -290,8 +292,7 @@ Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het i
 ### Feedback
 
 ### De testsessie
-
-
+We waren goed ingespeeld door de vorige testsessie. De tolken waren niet in beeld zodat we daar niet door werden afgeleid en echt het gevoel hadden dat we met Marie een gesprek voerde. Je praat wel in een soort fases. Je moet even wachten tot jouw verhaal vertaald is aan Marie en tot je haar verhaal terug krijgt van de tolk. Daar raak je wel snel aan gewend. We vertelden eerst wat ons concept ookalweer inhield, wat we verbeterd hadden en daarna de app zelf. Dit deden we via screenshare zodat ook de rest van de groep mee kon kijken. Af en toe kwam dit beeld niet helder of in goede snelheid bij Marie aan. Marie gaf veel en goede feedback. Soms zei ze dat het ook kon liggen aan de slechte verbinding en dat het op haar eigen device waarschijnlijk wel helderder zou zijn. De testsessie duurde alleen wat te lang wat ervoor zorgde dat we 20 minuten uitliepen. Ik was als laatst aan de beurt en voelde me daardoor een beetje gehaast. Gelukikkig heb ik nog wel wat goede feedback kunnen ontvangen.
 
 ## Learning goals
 
