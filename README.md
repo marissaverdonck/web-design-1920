@@ -285,7 +285,7 @@ Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het i
 
 ### Ontwerp 3
 
-<img width="500" alt="Schermafbeelding 2020-04-23 om 09 06 56" src="https://user-images.githubusercontent.com/43657951/80069573-da4bf180-8541-11ea-8d92-89b3f98dd3f7.png">
+<img width="500" alt="Schermafbeelding 2020-04-23 om 11 21 52" src="https://user-images.githubusercontent.com/43657951/80082570-d83f5e00-8554-11ea-9619-2a2b1ed4ac24.png">
 
 <img width="500" alt="Schermafbeelding 2020-04-23 om 09 09 02" src="https://user-images.githubusercontent.com/43657951/80069740-29922200-8542-11ea-8527-19f4170cc0d7.png">
 
