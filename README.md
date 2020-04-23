@@ -222,7 +222,7 @@ In het interview van vorige week kwam ik interessante dingen te weten over Marie
 
 * Marie begrijpt humor maar soms mist ze de sarcasme in een text. Dat hebben mensen die kunnen horen natuurlijk ook weleens. In bijvoorbeeld Whatsapp helpt het gebruik van emoties bij het vertellen van hoe je een text bedoeld. Ik gebruik de gezichten onderaan het scherm om emoties te tonen. Deze veranderen per zin.
 
-* Stijl. Ik probeer erachter te komen wat de stijl van Marie is. Ze heeft haar eigen waar ze haar projecten toont en verschillende illustraties die ze heeft ontworpen.[website](http://www.marievandriessche.nl/). Ook vond ik haar op [Pinterest](https://nl.pinterest.com/girl_marietje/design-posters/). Een Pinterestbord kan veel zeggen over de stijl van iemand.
+* Stijl. Ik probeer erachter te komen wat de stijl van Marie is. Ze heeft haar eigen waar ze haar projecten toont en verschillende illustraties die ze heeft ontworpen. [Website](http://www.marievandriessche.nl/).  Ook vond ik haar op [Pinterest](https://nl.pinterest.com/girl_marietje/design-posters/). Een Pinterestbord kan veel zeggen over de stijl van iemand.
 
 <img width="300" alt="Schermafbeelding 2020-04-09 om 18 31 34" src="https://user-images.githubusercontent.com/43657951/78918457-bfcd3f00-7a90-11ea-8cf6-8511d3e45e2c.png">
 
@@ -271,8 +271,7 @@ Marie zit achter haar computer en heeft haar 2 tolken op een apart scherm. Het i
 
 <img width="400" alt="Schermafbeelding 2020-04-15 om 14 03 56" src="https://user-images.githubusercontent.com/43657951/79475411-eb5ba680-8007-11ea-8169-b270b8eae56e.png">
 
-* Ik heb de kleuren aangepast. Marie gebruikt op haar eigen website, en in haar projecten blauw/groene kleuren. Omdat deze app speciaal voor Marie is, heb ik dat veranderd. Dit is de intro van de podcast:
-
+* Ik heb de kleuren aangepast. Marie gebruikt op haar eigen website, en in haar projecten blauw/groene kleuren. Omdat deze app speciaal voor Marie is, heb ik dat veranderd. Ook heb ik de font gebruikt die Marie op haar eigen website gebruikt.
 
 * Meer tekst per wolkje. Als er 1 zin per wolkje staat, dacht Marie dat er een stilte valt.
 
