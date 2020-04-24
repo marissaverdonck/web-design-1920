@@ -306,7 +306,14 @@ We waren goed ingespeeld door de vorige testsessie. De tolken waren niet in beel
 
 ### Iteratie
 
+### Ontwerp 4
+
+Design principes van Joshua Porter: 
+http://bokardo.com/principles-of-product-design/
+
 ## Learning goals
+
+
 
 ## Credits
 
