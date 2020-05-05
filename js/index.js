@@ -22,8 +22,10 @@ var countPeople = 0;
 dialogue.classList.add("hidden")
 
 button.addEventListener("click", function() {
+  console.log(intro.className)
   dialogue.classList.remove("hidden")
   intro.classList.add("hidden")
+  console.log(intro.className)
   window.scrollTo(0, 0);
   if (button.className == "pause") {
     button.className = "play"
@@ -32,7 +34,11 @@ button.addEventListener("click", function() {
     button.className = "pause"
     val = setInterval(() => {
 
+      // window.scrollTo(0, document.querySelector("#dialogue").scrollHeight + document.querySelector("#dialogue").clientHeight - 20)
+      // console.log(document.querySelector("#dialogue").scrollHeight)
+
       messagesArray[countMessage].classList.add("show")
+      messagesArray[countMessage].scrollIntoView()
       messagesArray[countMessage].classList.remove("hidden")
       peopleArray[countPeople].classList.add("show")
       peopleArray[countPeople].classList.remove("hidden")
@@ -57,6 +63,13 @@ button.addEventListener("click", function() {
       //   }
     }, 3000);
   }
+  if (intro.className == "") {
+    buttonBegin.classList.add("hidden")
+    buttonEnd.classList.add("hidden")
+  } else {
+    buttonBegin.classList.remove("hidden")
+    buttonEnd.classList.remove("hidden")
+  }
 })
 
 buttonStop.addEventListener("click", function() {
@@ -74,9 +87,17 @@ buttonStop.addEventListener("click", function() {
     countMessage = 0;
     countPeople = 0;
   }
+  if (intro.className == "") {
+    buttonBegin.classList.add("hidden")
+    buttonEnd.classList.add("hidden")
+  } else {
+    buttonBegin.classList.remove("hidden")
+    buttonEnd.classList.remove("hidden")
+  }
 })
 
 buttonBegin.addEventListener("click", function() {
+  console.log(intro.className)
   clearInterval(val)
   messagesArray.forEach(item => {
     item.classList.remove("show")
@@ -91,9 +112,17 @@ buttonBegin.addEventListener("click", function() {
   if (button.className == "pause") {
     button.className = "play"
   }
+  if (intro.className == "") {
+    buttonBegin.classList.add("hidden")
+    buttonEnd.classList.add("hidden")
+  } else {
+    buttonBegin.classList.remove("hidden")
+    buttonEnd.classList.remove("hidden")
+  }
 })
 
 buttonEnd.addEventListener("click", function() {
+  console.log(intro.className)
   clearInterval(val)
   messagesArray.forEach(item => {
     // item.classList.remove("hidden")
@@ -106,4 +135,20 @@ buttonEnd.addEventListener("click", function() {
     //   countMessage = 0
     //   countPeople = 0
     //   console.log(countMessage)
+  if (intro.className == "") {
+    buttonBegin.classList.add("hidden")
+    buttonEnd.classList.add("hidden")
+  } else {
+    buttonBegin.classList.remove("hidden")
+    buttonEnd.classList.remove("hidden")
+  }
 })
+
+console.log(intro.className)
+if (intro.className == "") {
+  buttonBegin.classList.add("hidden")
+  buttonEnd.classList.add("hidden")
+} else {
+  buttonBegin.classList.remove("hidden")
+  buttonEnd.classList.remove("hidden")
+}
