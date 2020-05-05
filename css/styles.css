@@ -202,7 +202,7 @@ img.people {
   border-radius: 50%;
   width: 3.5em;
   height: 3.5em;
-  background-image: url('/img/play.png');
+  background-image: url('../img/play.png');
   background-position: center;
   background-repeat: no-repeat;
   background-position: center;
@@ -211,23 +211,23 @@ img.people {
 }
 
 #play .play {
-  background-image: url('/img/play.png');
+  background-image: url('../img/play.png');
 }
 
 #play .pause {
-  background-image: url('/img/pause.png');
+  background-image: url('../img/pause.png');
 }
 
 #play #stop {
-  background-image: url('/img/stop.png');
+  background-image: url('../img/stop.png');
 }
 
 #play #begin {
-  background-image: url('/img/begin.png');
+  background-image: url('../img/begin.png');
 }
 
 #play #end {
-  background-image: url('/img/end.png');
+  background-image: url('../img/end.png');
 }
 
 #play button p {
