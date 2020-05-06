@@ -101,6 +101,28 @@ main {
   display: block;
 }
 
+#intro svg {
+  width: 80%;
+  margin: 2em auto 0 auto;
+  display: block;
+}
+
+#intro svg g#balloon1 {
+  animation: bigger ease 4s infinite;
+}
+
+#intro svg g#balloon2 {
+  animation: bigger1 ease 6s infinite;
+}
+
+#intro svg g#balloon3 {
+  animation: bigger ease 6s infinite;
+}
+
+#intro svg g#balloon4 {
+  animation: bigger1 ease 4s infinite;
+}
+
 #dialogue {
   width: 100vw;
   margin: 0 auto 0em auto;
@@ -193,7 +215,7 @@ img.people {
   width: 100%;
   display: flex;
   justify-content: center;
-  background-color: #F8F7F7;
+  background-color: #f5f5f5;
   padding: .5em;
   height: 43m;
   ;
@@ -257,5 +279,29 @@ img.people {
 @media all and (min-width: 30em) {
   #dialogue {
     max-width: 30em;
+  }
+}
+
+@keyframes bigger {
+  0% {
+    opacity: 0%;
+  }
+  50% {
+    opacity: 100%;
+  }
+  100% {
+    opacity: 0%;
+  }
+}
+
+@keyframes bigger1 {
+  0% {
+    opacity: 100%;
+  }
+  50% {
+    opacity: 0%;
+  }
+  100% {
+    opacity: 100%;
   }
 }
