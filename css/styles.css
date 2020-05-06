@@ -72,17 +72,19 @@ main {
   max-width: 30em;
   text-align: center;
   margin: 0em auto;
+  min-height: 100vh;
 }
 
 #intro h1,
 #intro p,
 #intro h2 {
   max-width: 25em;
-  margin: 1em auto;
+  margin: .5em auto;
 }
 
 #intro p {
   max-width: 35em;
+  font-size: .9em
 }
 
 #intro button {
@@ -102,9 +104,9 @@ main {
 #dialogue {
   width: 100vw;
   margin: 0 auto 0em auto;
-  padding: 1em 3vw 7em 3vw;
+  padding: 1em 0 0 0em;
   background-color: #ffffff;
-  min-height: 85vh;
+  min-height: 87vh;
   bottom: 2em;
   top: 0;
 }
@@ -117,7 +119,8 @@ article.heading1 {
   display: grid;
   grid-template-columns: 5% 20% 50% 20% 5%;
   grid-row-gap: 2ch;
-  margin-bottom: 1em
+  margin-bottom: 2em;
+  padding-bottom: 4em;
 }
 
 article.heading2 {

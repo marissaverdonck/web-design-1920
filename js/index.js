@@ -15,8 +15,8 @@ const dialogue = document.querySelector("#dialogue")
 
 var i = 0;
 var p = 0;
-var countMessage = 0;
-var countPeople = 0;
+var countMessage = 1;
+var countPeople = 1;
 
 
 dialogue.classList.add("hidden")
@@ -26,7 +26,7 @@ button.addEventListener("click", function() {
   dialogue.classList.remove("hidden")
   intro.classList.add("hidden")
   console.log(intro.className)
-  window.scrollTo(0, 0);
+    // window.scrollTo(0, 0);
   if (button.className == "pause") {
     button.className = "play"
     clearInterval(val)
@@ -61,7 +61,7 @@ button.addEventListener("click", function() {
       countPeople++
       //   console.log(countMessage)
       //   }
-    }, 3000);
+    }, 4000);
   }
   if (intro.className == "") {
     buttonBegin.classList.add("hidden")
