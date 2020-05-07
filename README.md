@@ -1,4 +1,7 @@
-# Web Design @cmda-minor-web 1920
+# Exclusive Podcast Design - Web Design @cmda-minor-web 1920
+
+<img width="651" alt="Schermafbeelding 2020-05-07 om 08 11 00" src="https://user-images.githubusercontent.com/43657951/81261588-a0e4ad00-903c-11ea-9670-b15bdc82db05.png">
+
 
 ## Live Demo
 https://marissaverdonck.github.io/web-design-1920/
@@ -312,24 +315,53 @@ We waren goed ingespeeld door de vorige testsessie. De tolken waren niet in beel
 * De tekst ging iets te snel, ik heb deze een seconde vertraagd.
 * Er zijn (kleine) animaties toegepast op de intro. Marie is visueel designer dus ik vond het een goed idee om het conept net iets aantrekkelijker te maken. Als ik iets meer tijd had gehad, kon ik dit ook doen in de podcast zelf.
 
+<img width="500" alt="Schermafbeelding 2020-05-07 om 08 24 28" src="https://user-images.githubusercontent.com/43657951/81261411-54996d00-903c-11ea-9b78-368a1e2a6ae5.png">
+
 ### Ontwerp 4
 
+<img width="500" alt="Schermafbeelding 2020-05-07 om 08 13 55" src="https://user-images.githubusercontent.com/43657951/81261112-b86f6600-903b-11ea-9874-4c598db36970.png">
+
+<img width="500" alt="Schermafbeelding 2020-05-07 om 08 13 49" src="https://user-images.githubusercontent.com/43657951/81261101-b4dbdf00-903b-11ea-90eb-da810e4500fc.png">
 
 
 ## Conclusie
 
-### Exclusive design principles 
+### [Exclusive design principles](https://exclusive-design.vasilis.nl)
 
 #### 1. Study Situation
+
+Tijdens de kennismaking en de klasikale presentatie van Marie hebben we haar wat beter leren kennen. We konden vragen stellen en zo haar situatie bestuderen.
+
+Marie is visueel designer. Het is belangrijk dat de app er dus goed uit komt te zien. Ik ben even op zoek gegaan en kwam terecht op Marie haar website. Daar kon ik zien aan wat voor projecten ze gewerkt had. Het viel me op dat ze vooral groen/blauwe kleuren gebruikte en illustraties maakt. Daar ben ik mee aan de slag gegaan.
+
+Zakelijke dingen leest en doet Marie op haar desktop. Prive dingen doet ze het liefst op haar telefoon of haar tablet, welke ze net heeft aangeschaft. De keuze was dan al snel gemaakt op de podcast op tablet formaat te ontwerpen. 
+
+Als Marie een podcast zou willen lezen, zou ze er een uitkiezen aan de hand van haar interesses, UX bijvoorbeeld. Ik kwam erachter dat Vasilis mooie podcasts maakt, dus het leek me een goed idee er hier een van te gebruiken.
+
 #### 2. Ignore Conventions
+
+
+Standaarden op het web zijn niet altijd handig in gebruik voor de individu.  Bepaalde standaarden heb ik wel meegenomen. De knoppen staan bijvoorbeeld onderaan het devicescherm. Zo kan Marie op haar telefoon of tablet het makkelijkst de podcast besturen. Door te testen kreeg ik inzichten om voor Marie bepaalde aanpassingen te maken. Marie wil kunnen kiezen of ze de podcast automatisch afspeeld of dat ze er zelf doorheen scrollt. Ik heb een extra knop hiervoor toegevoegd.
+
+
 #### 3. Prioritise Identity
+
+Door Marie tijdens de testsessies mee te laten denken over het design, kreeg je nieuwe inzichten. Het was goed om ook de testsessies van medestudenten te bekijken, zo kreeg je veel informatie. Belangrijke iteraties die ik heb gemaakt zijn:
+* De gezichtsillustraties bij elk tekstblok laten zien in plaats van onderaan de pagina. Doordat de illustraties veranderen per tekstblok, wil je niet te veel heen en weer hoeven kijken.
+* De gezichtsillustraties groter in beeld en vanaf de voorkant tonen, het moet goed zichtbaar zijn.
+* Keuze toevoegen tussen afspelen of zelf scrollen door te tekst
+* Kopjes aan de rechterkant voegen weinig toe, deze heb ik weggehaald.
+* Tekst iets langzamer inladen.
+
 #### 4. Add Nonsense
 
+Omdat Marie Visual designer is leek het me leuk om de nonsense ook visueel te laten terugkomen. Ik heb een intro van de podcast gemaakt met een animatie. Zo maak ik het visueel aantrekkelijk de podcast te gaan lezen. Het liefst had ik de animaties ook laten terugkomen in de podcast.
 
 ### Testen
 
+Marie is doof en kiest ervooor om niet te praten. We communiseerde met haar via 2 doventolken. 
 
-### Wat ik geleerd heb
+### Wat heb ik geleerd
 
 ## Credits
 
