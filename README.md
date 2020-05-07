@@ -359,11 +359,25 @@ Omdat Marie Visual designer is leek het me leuk om de nonsense ook visueel te la
 
 ### Testen
 
-Marie is doof en kiest ervooor om niet te praten. We communiseerde met haar via 2 doventolken. 
+Vanwege het Coronavirus testen we vanuit huis via het Bongo platform, via de webcam. We communiseren met Marie via 2 doventolken, de een is haar stem en de ander zijn haar oren. Marie wil graag dat je haar aankijkt als de tolk voor haar praat. We hebben er daarom voor gekozen de webcams van de tolken uit te zetten. 
+
+Het is belangrijk bij testen dat je iemand om zijn/haar gemak stelt. Je geeft aan dat iemand geen fouten kan maken tijdens het testen maar dat we juist de onduidelijkheden in een app op willen sporen. Je vraagt of de testpersoon zijn gedachtes uit wil spreken. 
+
+Marie vind het lastig om tegelijkertijd het concept te horen, de app te zien, en via de doventolken met ons te praten. Daarom kozen we ervoor om eerst het concept uit te leggen, daarna de app te laten zien om vervolgens de vragen te stellen. Ons concept delen we via screenshare zodat ook de rest van de groep mee kon kijken. Af en toe kwam dit beeld niet helder of in goede snelheid bij Marie aan. Helaas kunnen we niet met Marie meekijken op haar scherm wat ze doet. Daarom is het extra belangrijk dat ze verteld wat ze denkt.
+
+Voordat we de testsessies ingingen bereidde ik 5 vragen voor. Zodat ik inzicht kreeg over punten waar ik over twijfelde.   Meestal volgde andere vragen tijdens het gesprek. Je praat in een soort fases. Je moet even wachten tot jouw verhaal vertaald is aan Marie en tot je haar verhaal terug krijgt van de tolk. Ik probeer rustig te praten, even te wachten op antwoord en dat helpt het gesprek soepel te verlopen.
+
+We hebben het geluk dat Marie designer is, ze kan goed uitleggen wat ze van het ontwerp vindt en wat ze zou aanpassen. Marie gaf veel en goede feedback. Soms zei ze dat het ook kon liggen aan de slechte verbinding en dat het op haar eigen device waarschijnlijk wel helderder zou zijn.
 
 ### Wat heb ik geleerd
 
-## Credits
+* User needs onderzoeken: Omdat het product een exclusief design is voor Marie is het belangrijk dat je haar goed leert kennen in korte tijd. Tijdens de kennismaking hadden we met een groep allerlij vragen voorbereid. Dit waren basis vragen zoals, welk device gebruik je? Maar ook wat persoonlijke en over haar handicap omdat we hier geen ervaring mee hebbem of ons niet zo goed kunnen voorstellen hoe Marie dat beleefd. Er waren ook gekke vragen zoals "wat is je favoriete seizoen". Dit houdt het gesprek leuk en geeft weer inzichten vanaf een andere kant. Dit ga ik vaker gebruiken.
+
+* Testen: Ik zorgde ervoor dat ik een aantal vragen voorbereidde. Ik probeerde tijdens het gesprek nieuwe vragen te verzinnen maar dat vind ik best lastig. Ik merke bij andere mensen die geen/weinig vragen hadden voorbereid, dat Marie uit zich zelf veel begon te vertellen. Dat komt natuurlijk ook doordat ze designer is en zelf een goed idee heeft hoe ze iets zou aanpakken. Ik denk dat ik de volgende keer iets langer moet wachten met de volgende vraag. Zodat de testpersoon meer de ruimte heeft om nog wat meer na te denken over de vraag.
+
+* Itereren: Elke testsessie gaf weer nieuwe inzichten. Direct na een testsessie schreef ik deze op, alle details die de testpersoon heeft genoemd zitten dan nog goed in je hoofd. Het is altijd een uitdaging hoe je je design gaat verbeteren. Ik maakte eerst schetsen en werkte de aanpassingen daarna digitaal uit. De verbeterpunten neem ik mee naar de volgende testsessie en onderzoek of het geholpen heeft. 
+
+
 
 ## License
 [MIT License](https://github.com/marissaverdonck/web-design-1920/blob/master/license)
