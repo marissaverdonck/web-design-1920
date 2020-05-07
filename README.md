@@ -27,7 +27,6 @@ https://marissaverdonck.github.io/web-design-1920/
   * [Feedback](#Feedback)
   * [De testsessie](#De-testsessie)
 * [week 4](#week-4)
-* [Learning goals](#Learning-goals)
 * [Credits](#Credits)
 * [License](#License)
 
@@ -48,6 +47,7 @@ Marie is Interaction Designer uit Amsterdam en spreker over UX en toegankelijkhe
 ## Concept
 
 Ik wil Marie helpen met het volgen van een podcast. Iets wat voor dove mensen tot nu toe onbereikbaar is. Wanneer er een transcriptie beschikbaar is, gaat nogal wat nuance verloren. Ik wil een oplossing maken die minimaal net zo prettig is voor iemand die niet kan luisteren als voor iemand die wel kan luisteren. Ik ga dit ontwerpen voor 1 persoon. Niet een doelgroep, maar alleen voor Marie. Dit heet exclusive design. Ik zal me verdiepen in de gebruiker en het prototype meerdere keren testen. Op deze manier kan ik het ontwerp verbeteren.
+
 
 ## Installatie
 1. Open de terminal
@@ -70,6 +70,8 @@ Marie heeft constant een lach op haar gezicht en komt blij en vrolijk over.
 Ze zit in haar woonkamer en op de achtergrond zie je boeken, planten en een schilderij van planten. 
 Marie houdt van de lente. Het is dan niet te warm en niet te koud en alles is mooi groen.
 Marie heeft interesse in kickboxen, yoga en koken.
+
+
 
 ### Interview
 <details>
@@ -306,14 +308,28 @@ We waren goed ingespeeld door de vorige testsessie. De tolken waren niet in beel
 
 ### Iteratie
 
+* De emoties op de gezichten viellen niet op. Ik heb nieuwe illustraties gemaakt met het gezicht van voren.
+* De tekst ging iets te snel, ik heb deze een seconde vertraagd.
+* Er zijn (kleine) animaties toegepast op de intro. Marie is visueel designer dus ik vond het een goed idee om het conept net iets aantrekkelijker te maken. Als ik iets meer tijd had gehad, kon ik dit ook doen in de podcast zelf.
+
 ### Ontwerp 4
 
-Design principes van Joshua Porter: 
-http://bokardo.com/principles-of-product-design/
-
-## Learning goals
 
 
+## Conclusie
+
+### Exclusive design principles 
+
+#### 1. Study Situation
+#### 2. Ignore Conventions
+#### 3. Prioritise Identity
+#### 4. Add Nonsense
+
+
+### Testen
+
+
+### Wat ik geleerd heb
 
 ## Credits
 
