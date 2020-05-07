@@ -324,7 +324,7 @@ We waren goed ingespeeld door de vorige testsessie. De tolken waren niet in beel
 <img width="500" alt="Schermafbeelding 2020-05-07 om 08 13 49" src="https://user-images.githubusercontent.com/43657951/81261101-b4dbdf00-903b-11ea-90eb-da810e4500fc.png">
 
 
-## Conclusie
+# Conclusie
 
 ### [Exclusive design principles](https://exclusive-design.vasilis.nl)
 
