@@ -332,9 +332,32 @@ We waren goed ingespeeld door de vorige testsessie. De tolken waren niet in beel
 
 # Conclusie
 
-### [Exclusive design principles](https://exclusive-design.vasilis.nl)
+## User Scenario
 
-#### 1. Study Situation
+### Wie is de gebruiker?
+
+Marie is een Interaction Designer uit Amsterdam en spreker over UX en toegankelijkheid. Ze is vrolijk en houdt van humor. Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt. Marie heeft interesse in UX, design, kickboxen, yoga en koken. 
+
+### Wat wil de geruiker?
+
+Marie wil een podcast volgen over UX. Daarbij wil ze ook iets mee kunnen krijgen van de nuance uit het gesprek, wat voor dove mensen tot nu toe onbereikbaar is. 
+
+### Hoe gaat de gebruiker dat bereiken?
+
+Door de podcast om te zetten in een transcript kan Marie de dialoog lezen. De nuance en sarcasme die ze graag mee wil krijgen, zal visueel worden uitgebeeld per spreker en tekst.
+
+### Waar gaat de gebruiker de website gebruiken?
+
+Marie heeft onlangs een tablet aangeschafd waar ze graag op leest. Ze zal de podcast vooral thuis, op de bank, lezen.
+
+### Waarom wil de gebruiker de website gebruiken?
+Marie heeft interesse in UX en wil hier graag meer over te weten komen. Podcasts zijn bronnen die tot nu toe onbereikbaar waren voor Marie tenzij er een transcript aanwezig is. In een transcript gaat echter wel veel nuance en (sarcastische) humor verloren wat Marie jammer vindt. Daarom heb ik een UX-podcast textueel uitgewerkt en visueel de nuance toegevoegd.
+
+
+
+## [Exclusive design principles](https://exclusive-design.vasilis.nl)
+
+### 1. Study Situation
 
 Tijdens de kennismaking en de klasikale presentatie van Marie hebben we haar wat beter leren kennen. We konden vragen stellen en zo haar situatie bestuderen.
 
@@ -344,13 +367,13 @@ Zakelijke dingen leest en doet Marie op haar desktop. Prive dingen doet ze het l
 
 Als Marie een podcast zou willen lezen, zou ze er een uitkiezen aan de hand van haar interesses, UX bijvoorbeeld. Ik kwam erachter dat Vasilis mooie podcasts maakt, dus het leek me een goed idee er hier een van te gebruiken.
 
-#### 2. Ignore Conventions
+### 2. Ignore Conventions
 
 
 Standaarden op het web zijn niet altijd handig in gebruik voor de individu.  Bepaalde standaarden heb ik wel meegenomen. De knoppen staan bijvoorbeeld onderaan het devicescherm. Zo kan Marie op haar telefoon of tablet het makkelijkst de podcast besturen. Door te testen kreeg ik inzichten om voor Marie bepaalde aanpassingen te maken. Marie wil kunnen kiezen of ze de podcast automatisch afspeeld of dat ze er zelf doorheen scrollt. Ik heb een extra knop hiervoor toegevoegd.
 
 
-#### 3. Prioritise Identity
+### 3. Prioritise Identity
 
 Door Marie tijdens de testsessies mee te laten denken over het design, kreeg je nieuwe inzichten. Het was goed om ook de testsessies van medestudenten te bekijken, zo kreeg je veel informatie. Belangrijke iteraties die ik heb gemaakt zijn:
 * De gezichtsillustraties bij elk tekstblok laten zien in plaats van onderaan de pagina. Doordat de illustraties veranderen per tekstblok, wil je niet te veel heen en weer hoeven kijken.
@@ -359,11 +382,11 @@ Door Marie tijdens de testsessies mee te laten denken over het design, kreeg je 
 * Kopjes aan de rechterkant voegen weinig toe, deze heb ik weggehaald.
 * Tekst iets langzamer inladen.
 
-#### 4. Add Nonsense
+### 4. Add Nonsense
 
 Omdat Marie Visual designer is leek het me leuk om de nonsense ook visueel te laten terugkomen. Ik heb een intro van de podcast gemaakt met een animatie. Zo maak ik het visueel aantrekkelijk de podcast te gaan lezen. Het liefst had ik de animaties ook laten terugkomen in de podcast.
 
-### Testen
+## Testen
 
 Vanwege het Coronavirus testen we vanuit huis via het Bongo platform, via de webcam. We communiseren met Marie via 2 doventolken, de een is haar stem en de ander zijn haar oren. Marie wil graag dat je haar aankijkt als de tolk voor haar praat. We hebben er daarom voor gekozen de webcams van de tolken uit te zetten. 
 
@@ -375,7 +398,7 @@ Voordat we de testsessies ingingen bereidde ik 5 vragen voor. Zodat ik inzicht k
 
 We hebben het geluk dat Marie designer is, ze kan goed uitleggen wat ze van het ontwerp vindt en wat ze zou aanpassen. Marie gaf veel en goede feedback. Soms zei ze dat het ook kon liggen aan de slechte verbinding en dat het op haar eigen device waarschijnlijk wel helderder zou zijn.
 
-### Wat heb ik geleerd
+## Wat heb ik geleerd
 
 * User needs onderzoeken: Omdat het product een exclusief design is voor Marie is het belangrijk dat je haar goed leert kennen in korte tijd. Tijdens de kennismaking hadden we met een groep allerlei vragen voorbereid. Dit waren basis vragen zoals, welk device gebruik je? Maar ook wat persoonlijke en over haar handicap omdat we hier geen ervaring mee hebbem of ons niet zo goed kunnen voorstellen hoe Marie dat beleefd. Er waren ook gekke vragen zoals "wat is je favoriete seizoen". Dit houdt het gesprek leuk en geeft weer inzichten vanaf een andere kant. Dit ga ik vaker gebruiken.
 
